@@ -4,7 +4,7 @@
   -webkit-filter: none !important;
 }
 
-.fight-stick .button.pressed { background: red; }
+.fight-stick .button.pressed { background: #DDD; }
 .fight-stick .quadrant.p0 { display: none; }
 .controller.active.fight-stick {
   background-image: url('./bg.svg');
