@@ -1,0 +1,5 @@
+.button { background: #FFF; }
+.quadrant.p0 { display: none; }
+.gamepad-0 {
+  background-image: url('./bg.svg');
+}
