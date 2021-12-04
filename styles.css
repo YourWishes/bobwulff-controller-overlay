@@ -1,4 +1,5 @@
 .button { background: #FFF; }
+.button.pressed {background: red;}
 .quadrant.p0 { display: none; }
 .gamepad-0 {
   background-image: url('./bg.svg');
