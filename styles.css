@@ -1,5 +1,7 @@
 .fight-stick .button { 
   background: #FFF;
+  filter: none !important;
+  -webkit-filter: none !important;
 }
 
 .fight-stick .button.pressed { background: red; }
