@@ -1,6 +1,9 @@
-.button { background: #FFF; }
-.button.pressed {background: red;}
-.quadrant.p0 { display: none; }
-.gamepad-0 {
+.fight-stick .button { 
+  background: #FFF;
+}
+
+.fight-stick .button.pressed { background: red; }
+.fight-stick .quadrant.p0 { display: none; }
+.controller.active.fight-stick {
   background-image: url('./bg.svg');
 }
